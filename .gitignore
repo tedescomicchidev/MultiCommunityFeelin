@@ -1,0 +1,65 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+out/
+
+## User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## IDE settings
+.vs/
+.idea/
+*.csproj.user
+
+## Logs
+*.log
+
+## Azure
+*.azureFunctionsTools
+
+## Coverage
+*.coverage
+*.coveragexml
+TestResult*/
+
+## Packages
+**/packages/*
+!**/packages/build/
+
+## NuGet
+*.nupkg
+.nuget/packages
+.nuget/nuget.config
+nuget.exe
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## Rider
+.idea/
+*.sln.iml
+
+## Others
+*.Cache
+*.dbmdl
+*.pdb
+*.pidb
+*.svclog
+*.vsp
+*.vspx
+*.visualstudio.suo
+*.tlog
+*.lock.json
+.project
+.tmp
+
+# Mac
+.DS_Store
+
+# JetBrains Rider auto-generated files
+.idea/
